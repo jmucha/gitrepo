@@ -1,8 +1,4 @@
-#include <iostream>
+int main(void){
 
-
-
-int main(){
-	
-	return ;
+	return 0;
 }
